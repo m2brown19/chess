@@ -1,5 +1,6 @@
-/*
-
+/**
+ * Chess piece class header
+ * 
 */
 
 #ifndef CHESS_PIECE_H
